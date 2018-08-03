@@ -1,0 +1,33 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: Sokoban2 - Win32 Release--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\DOCUME~1\winapi\LOCALS~1\Temp\RSP1E.tmp" with contents
+[
+/nologo /ML /W3 /GX /O2 /D "WIN32" /D "NDEBUG" /D "_WINDOWS" /D "_MBCS" /Fp"Release/Sokoban2.pch" /YX /Fo"Release/" /Fd"Release/" /FD /c 
+"C:\1KSHDATA\Api정복\2판예제\09장=API 실습\Sokoban3\Sokoban2.cpp"
+]
+Creating command line "cl.exe @C:\DOCUME~1\winapi\LOCALS~1\Temp\RSP1E.tmp" 
+Creating temporary file "C:\DOCUME~1\winapi\LOCALS~1\Temp\RSP1F.tmp" with contents
+[
+kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib winmm.lib /nologo /subsystem:windows /incremental:no /pdb:"Release/Sokoban2.pdb" /machine:I386 /out:"Release/Sokoban2.exe" 
+".\Release\Sokoban2.obj"
+".\Release\Sokoban2.res"
+]
+Creating command line "link.exe @C:\DOCUME~1\winapi\LOCALS~1\Temp\RSP1F.tmp"
+<h3>Output Window</h3>
+Compiling...
+Sokoban2.cpp
+Linking...
+
+
+
+<h3>Results</h3>
+Sokoban2.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

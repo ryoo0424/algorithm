@@ -1,0 +1,38 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: BitmapClass - Win32 Release--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating command line "rc.exe /l 0x412 /fo"Release/BitmapClass.res" /d "NDEBUG" "C:\1KSHDATA\C-C++\프로젝트\C++ 추가 예제\BitmapClass\BitmapClass.rc"" 
+Creating temporary file "C:\DOCUME~1\winapi\LOCALS~1\Temp\RSP90.tmp" with contents
+[
+/nologo /ML /W3 /GX /O2 /D "WIN32" /D "NDEBUG" /D "_WINDOWS" /D "_MBCS" /Fp"Release/BitmapClass.pch" /YX /Fo"Release/" /Fd"Release/" /FD /c 
+"C:\1KSHDATA\C-C++\프로젝트\C++ 추가 예제\BitmapClass\Bitmap.cpp"
+"C:\1KSHDATA\C-C++\프로젝트\C++ 추가 예제\BitmapClass\BitmapClass.cpp"
+]
+Creating command line "cl.exe @C:\DOCUME~1\winapi\LOCALS~1\Temp\RSP90.tmp" 
+Creating temporary file "C:\DOCUME~1\winapi\LOCALS~1\Temp\RSP91.tmp" with contents
+[
+kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /nologo /subsystem:windows /incremental:no /pdb:"Release/BitmapClass.pdb" /machine:I386 /out:"Release/BitmapClass.exe" 
+".\Release\Bitmap.obj"
+".\Release\BitmapClass.obj"
+".\Release\BitmapClass.res"
+]
+Creating command line "link.exe @C:\DOCUME~1\winapi\LOCALS~1\Temp\RSP91.tmp"
+<h3>Output Window</h3>
+Compiling resources...
+Compiling...
+Bitmap.cpp
+BitmapClass.cpp
+Linking...
+
+
+
+<h3>Results</h3>
+BitmapClass.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

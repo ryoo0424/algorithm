@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+<script type="text/javascript">
+	function pa (array) {
+		document.write(array+"<br/>");
+	}
+	var array = ['a', 'b', 'c', 'd', 'e'];
+	pa(array);
+	array.push('f'); //input arg in the last of array
+	pa(array);
+	array.unshift('z'); //input arg in front of array
+	pa(array);
+	array.splice(2,2,'h','k','i','j'); //index, # of delete, elements...
+	pa(array);
+</script>
+</body>
+</html>

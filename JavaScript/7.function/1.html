@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+<script type="text/javascript">
+	function setNumber (iter) {
+		var sum = 0;
+		for (i = 0; i < iter; i++){
+			sum += i*i;
+		}
+		return sum;
+	}
+
+	a = 0;
+	while (a++ < 10) {
+		document.write(a+" : "+ setNumber(a) + "<br/>");
+	}
+	
+	(fuction (){
+		i = 0;
+		return i;
+	}) (); // 익명함수(1회용)
+</script>
+</body>
+</html>

@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+<script type="text/javascript">
+	function print (arg) {
+		document.write(arg+"<br/>");
+	}
+
+	var grades = {'aaa': 10, 'bbb': 6, 'ccc': 80};
+	for (key in grades){ //control object by for-in phrase
+		print("<li>key : "+key+", value : "+grades[key]);
+	}
+</script>
+</body>
+</html>
