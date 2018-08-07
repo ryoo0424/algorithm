@@ -1,0 +1,486 @@
+텍스트마이닝을 이용한 소비자상담내용의 탐색적 연구 : 암보험을 중심으로
+텍스트 마이닝 기반 개인역량평가 시스템 설계 및 구현
+텍스트마이닝을 이용한 고객 불만사항에 대한 사례연구 = Case study of  analyzing the data for the complaints of Custermers by using text mining
+텍스트 마이닝을 통한 아이코닉 건축과 장소 브랜딩의 상관성에 관한 연구
+한국어 웹 문서 범주화를 위한  텍스트 마이닝 기법 연구
+텍스트마이닝을 이용한 패션회사의 VOC분석 = Fashion company's claim data analysis using text mining
+텍스트마이닝을 활용한 고객 이탈모형 : 통신회사 콜센터 데이터를 중심으로
+한국어 텍스트 마이닝의 특징 고찰 및 실제 빅데이터에의 적용
+텍스트 마이닝(Text Mining)을 이용한 관광지 이미지 결정요인에 관한 연구 = A Study on the Determinants of Destination Image using Text Mining
+텍스트 마이닝을 이용한 온라인 리뷰의 호텔 선택속성 분석 = Analysis of Hotel Selection Attributes in Online Reviews using Text Mining
+온톨로지와 텍스트 마이닝을 활용한 서비타이제이션 연구토픽에 관한 연구 : 연구 문헌의 트렌드 마이닝을 중심으로 = A Study of Research Topics in Servitization using Ontology & Text Mining  : Focused on Trend Mining of literatures
+텍스트 마이닝을 이용한 버스의 차내안전 사고분류 재정립
+텍스트 마이닝을 활용한 웹사이트 특성 비교 분석 = Comparison analysis of the characteristics of websites using text mining
+텍스트 마이닝 기법을 활용한 이슈 탐지 및 분석에 관한 연구
+텍스트 마이닝을 활용한 청소년 범죄 및 비행의 유형 변화 연구 = A Study on the Changes in the Types of Juvenile Delinquency Using Text Mining
+텍스트 마이닝을 활용한 사용자 핵심 요구사항 분석 방법론 연구 : 중국 온라인 화장품 시장을 중심으로 = A methodology study for customer core requirement analysis by using text mining : focused on chinese online cosmetics market
+텍스트 마이닝을 이용한 영화 흥행 예측 분석
+텍스트 마이닝 기법을 이용한 건설현장 협업시스템 필요기능 도출
+소셜 네트워크 분석 및 텍스트 마이닝을 이용한 배구 경기력 분석 = Performance analysis of volleyball games using the social network and text mining techniques
+텍스트마이닝 기법을 적용한 기술혁신의 연구주제에 관한 연구 : 태양전지를 중심으로 = Study of research topics in technological innovation: photovoltaics
+효율적 암 분류(cancer staging)를 위한 텍스트 마이닝(text mining) 기반의 의학적 의사결정지원시스템 모형 개발 : 위암 환자를 중심으로 = Development of text mining based clinical decision support system model for cancer staging
+ARIMA 모형과 텍스트 마이닝을 이용한 주가 등락 예측 = Stock Fluctuation Prediction using the ARIMA Model and Text Mining
+텍스트 마이닝의 실제적 활용에 관한 고찰
+빅데이터를 활용한 패션디자인 감성분석 연구 : 텍스트마이닝과 의미연결망 분석을 중심으로
+텍스트 마이닝을 통한 국가연구개발과제 동향분석 - 미래유망신기술(6T) 중심으로 = Trend Analysis of National R&D by Text Mining - Future Prospective New Technologies(6T)
+텍스트 마이닝 기반의 BIM 사용 유형에 따른 건설 프로젝트 자동 분류 기법 개발
+키워드 분석을 이용한 텍스트 마이닝 : 헬스케어에 관한 특허 중심으로
+바이오메디컬 데이터베이스 및 텍스트마이닝 기술의 비교 분석 및 전망 = Comparative analysis of biomedical databases and text mining technologies
+텍스트 마이닝 기반의 비밀상담 관리 모델에 관한 연구 = A Study on the Secret Counseling Management Model based on Text Mining
+텍스트마이닝에서의 군집 비교 연구
+텍스트 마이닝 기반의 그래프 모델을 이용한 미발견 공공 지식 추론
+특허문서의 키워드 추출을 위한 텍스트 마이닝 기반의 관계성 그래프 모델 = Text-mining Based Relational Graph model for Keyword Extraction from Patent Documents
+텍스트 마이닝 및 개체계량학 기반 개체 간 유의미한 관계 추론에 관한 연구
+텍스트 마이닝을 통한 언론사별 보도 변화 탐구
+빅데이터를 이용한 텍스트마이닝 기법의 성능 비교 = Comparison of Learning Methods in Text Mining with Big Data
+텍스트마이닝 기법을 활용한 과학기술동향 예측시스템 개발에 관한 연구 = (A) Study on the Development of Science Technology Trend Prediction System Using Text Mining Techniques
+텍스트 마이닝 기법을 이용한 반도체 생산 시 발생하는 이벤트 데이터와 수율의 연관성 분석
+텍스트마이닝을 적용한 동계올림픽 관련 연구의 비교 : - 1998, 2002, 2006, 2010, 2014 동계올림픽 대상으로 -
+텍스트 마이닝 기법을 이용한 기후변화와 식품 관련 논문초록들의 군집과 상호연관성 분석 = Clustering and Associating on the Abstract of Food and Climate Change Related Papers Using Text Mining TechniqueClustering and Associating on the Abstract of Food and Climate Change Related Papers Using Text Mining Technique
+텍스트마이닝 기법과 사회네트워크 분석을 이용한 공동주택 하자판결의 쟁점사항 분석 = Investigating Primary Conflicts of Judicial Precedents on Apartment Defects using Text Mining and Social Network Analysis
+네트워크 분석과 텍스트 마이닝을 활용한 재제조 연구 트렌드 분석 = An Analysis of Research Trend in the Field of Remanufacturing Using Network Analysis and Text mining
+텍스트 마이닝을 이용한 농촌마을 긴급구호서비스 취약성 분석
+텍스트마이닝을 통한 학습자 상태 분류 및 활동 모니터링 시스템 = Classifying learner's state and monitoring his activity using text mining
+텍스트 마이닝 기반 국제표준 트렌드 분석 시스템 개발에 관한 연구 = A Study on Development of Trend Analysis System for International Standards based on Text Mining
+디지털 포렌식 수사에서 증거 수집과 분석을 위한 텍스트 마이닝 프로세스 모델
+온라인 구전과 마케팅 성과 간의 다이나믹스(dynamics)연구 : 텍스트마이닝과 머신러닝을 통한 모바일 게임앱 리뷰 분석
+뉴스 텍스트 마이닝과 시계열 분석을 이용한 주가예측
+텍스트 마이닝을 이용한 비속어기반 불량 이용지수 개발에 관한 연구 : 트위터를 중심으로
+텍스트 마이닝을 이용한 Bigram-Signature기반의 자동 맛집 추천 모듈 = Bigram-Signature based automatic restaurant recommendation module using text mining
+텍스트마이닝을 이용한 메르스 관련 정부 보도 자료에 따른 언론 및 공중의 반응 분석 = An Analysis of response of the press and public according to government press releases related to MERS using text mining
+텍스트 마이닝 기법을 이용한 논문 제목들의 군집분석에 관한 연구 = A study on the clustering of NSF granted research titles using text mining techniques
+텍스트 마이닝을 활용한 생의학 문헌 분류 자질 선정 및 성능 평가
+텍스트 마이닝을 활용한 한미 언론에서 나타난 감성과 거시 경제 지수의 영향 관계
+텍스트 마이닝을 이용한 섬유근통 환자의 이해 : : 임상적 특징과 정서분석에 관한 연구
+텍스트 마이닝 기법을 활용한 자살 데이터 분석
+텍스트마이닝 기반 정보학 분야 학술지의 학제성 측정 연구
+텍스트 마이닝 기반의 정보학 분야 저자동시인용분석 : JASIST를 중심으로
+오감 활용 크리에이티브 재구성의 광고효과에 대한 연구 : 텍스트 마이닝 기법을 이용하여
+텍스트 마이닝을 활용한 경쟁제품의 차별속성 분석 방법론 제안
+텍스트마이닝에서 잠재 디리클레 할당 기법을 이용한 한글 텍스트 자료분석 = Text Mining for Korean Using Topic Models Based on Latent Dirichlet Allocation Technique
+텍스트 마이닝을 활용한 발화요인별 공간적 패턴 연구
+텍스트마이닝을 이용한 한, 중 빅 데이터 관련 연구동향 분석과 비교
+텍스트 마이닝 기반의 VOC 자동분류 성능 향상에 관한 연구
+R을 이용한 텍스트 마이닝에 대한 연구
+텍스트 마이닝 기반의 고객 세분화 방법론
+텍스트 마이닝을 이용한 온라인 뉴스 제목의 분류 = A Classification of the Title of the Online News using Text Mining.
+텍스트 마이닝에서 근접성 데이터의 군집화 기법 연구 = A Study on Clustering Methods for Proximity Data in Text Mining
+텍스트 마이닝과 표준화 기법을 이용한 재고 품목 마스터 데이터 표준화 방법에 관한 연구 = A Study on the standardization method of inventory item master data using text mining and standardization approaches
+텍스트 마이닝을 이용한 전통적 인용과 트위터 인용의 비교·분석 연구
+텍스트 마이닝 기반 정보보호인식에 대한 국가 간 비교 연구 : 한국, 미국, 중국
+텍스트 네트워크 분석과 AHP를 적용한 품질기능전개에 관한 연구 = A Study on integrating Quality Function Deployment with Text Network Analysis and AHP
+무용학의 지적 구조 분석 연구 : 텍스트 마이닝 기반의 빅데이터 분석을 중심으로
+특허 정보와 오픈소스 텍스트 마이닝 도구를 이용한 잠재적 기술수요 발굴 방안 = A Study on Identifying Potential Technology Demand Using Patent Information and Open Source Text-mining Tools
+웹뉴스 텍스트 마이닝을 이용한 주가 등락 예측
+소셜 텍스트마이닝을 통한 공공기관 고객 만족도 분석에 관한 연구 = A Study on Customer Satisfaction Analysis of Public Institutions using Social Textmining
+웹 컨텐츠의 분류를 위한 마이닝 시스템 설계 및 구현 = Design and Implementation of a Mining System for Classification of Web-Contents
+데이터 마이닝 기법을 이용한 특허 인용 예측 모형 구축에 관한 연구
+텍스트 마이닝을 이용한 한국 연구개발사업 성과 분석 : 주제 분석 중심으로
+텍스트마이닝을 이용한 특허정보검색 = A study on development of paten information retrieval using a textmining
+텍스트 마이닝을 이용한 학술지 논문 동향 비교 분석
+텍스트 마이닝을 이용한 웹 문서의 자동분류 = Automatic classification of web-based document using text mining
+텍스트 마이닝과 PLS 회귀분석을 이용한 모바일 커머스 앱 재이용 의도 및 만족도 요인 분석 = Analysis of Revisit Intention and Satisfaction Factors for Mobile Commerce Application Using Text Mining and PLS Regression Analysis
+텍스트 마이닝 기법을 이용한 단백질 상호작용 자동 추출 시스템의 개발
+텍스트 마이닝을 위한 그래프 모형의 비교 연구 = Comparison Study of Graphical Models for Text Mining
+텍스트 마이닝을 이용한 온라인 긴급 게시물 실시간 탐지 기법 = Real time detection technique for online urgent post using text mining
+비즈니스 모델 특허 분석을 위한 텍스트 마이닝 시스템 개발 = Text-mining System Development for Business Model Patent Analysis
+텍스트 마이닝을 이용한 통계학 분야의 토픽 분석 = Topic analysis in Statistics using text mining
+텍스트 마이닝에서 효과적인 문서 분류를 위한 군집화 기반 능동적 학습 = Using cluster-based sampling to select multiple query examples for active learning text classification
+텍스트 마이닝을 활용한 진주남강유등축제 관람평 분석 = A Study on Reviews of Jinju Namgang Yudeung Festival Using Text Mining
+텍스트 마이닝 기법을 활용한 한국과 미국 사물인터넷 기술의 특허 동향 비교 분석
+데이터마이닝을 이용한 데이터 활용에 관한 연구 = (A) study on data application using data mining
+데이터마이닝을 이용한 문헌정보학 전문 용어 클러스터링 기법 = (The) Library and Information Science Terminology Clustering Technique Using Datamining
+효과적인 오피니언 마이닝과 이모션 마이닝을 위한 최적 속성선택 방법에 관한 연구
+텍스트 분석 기법을 활용한 이슈 라이프 사이클 분석 : 삼성전자 갤럭시노트7 사례를 중심으로 = A study on text analysis method based on artifact issue life cycle using text visualization:Focused on Samsung Galaxy Note 7 case
+텍스트의 정서 흐름 인식과 비교 = Recognition and Comparison of Streams of Emotions in Text
+데이터마이닝 기법을 활용한 화학공학 미래기술 예측에 관한 연구 = Prediction of the chemical engineering future technologies by data mining techniques
+빅데이터를 활용한 글로벌 체인 호텔 고객의 쾌락적 태도와 실용적 태도 분석 : 텍스트마이닝과 소셜 네트워크 분석을 중심으로 = Analysis of the Hedonic Attitude and the Utilitarian Attitude of Customers of Global Chain Hotels Using Big Data:With a focus on text mining and social network analysis
+바이오 텍스트 마이닝을 이용한 생물학적 개체명 인식 및 생물학 문헌 검색 시스템 통합 = Bio-Named Entities Recognition using Bio-Textmining and Bio-Document Retrieval System Integration
+인과관계 도출을 위한 텍스트 마이닝 방법론 = Text Mining for Extracting Causal Relation
+특허 기반의 기술 트렌드 모니터링을 위한 의미론적 텍스트 마이닝 접근 방법 = A semantic text mining approach to monitoring patent-based technology trends
+웹 텍스트 마이닝을 위한 mDTD   정보 추출패턴 자동학습 = Learning mDTD Extraction Patterns for Web Text Mining
+7차노동당대회 사업총화 연구 : 텍스트마이닝기법을 이용하여 = A study on the Analysis of the review of the work of the 7th Congress of Worker's Party of Korea : using a textmining method
+비유적인 표현을 고려한 의견 마이닝 = Opinion Mining Supporting Figurative Sentences
+한글 텍스트의 오피니언 분류 자동화 기법
+의미 기반 XML 문서 마이닝
+영화 리뷰와 흥행의 연관성 분석을 위한 텍스트 마이닝 기반 감성분석 연구
+고객 불만데이터에 대한 감성분석을 결합한 텍스트 마이닝 분석 = Text mining method based on sentiment analysis for consumer complaint data
+소비자의 혁신성과 혁신 저항 성향에 따른 모바일 정보탐색에 관한 연구 : 텍스트마이닝을 중심으로
+교육 데이터 마이닝을 위한 OpenCL 기반 분석방법 제안 = Proposal of the OpenCL-based Analysis Method  for Educational Data Mining
+Ensemble-HMM을 이용한 텍스트 마이닝에서의 감성 분석 = Sentiment analysis in text mining using ensemble-HMM
+대사 경로 재구축을 위한 텍스트 마이닝 기법 = Text Mining Techniques for Metabolic Pathway Reconstruction
+서비스품질 지표의 감성 수준이 병원 평가에 미치는 영향 분석 : 텍스트마이닝 기법 활용
+오피니언 분류의 감성사전 활용효과에 대한 연구
+빅데이터 마이닝에 의한 공시지가 민원의 시공간적 특성 분석 = Spatiotemporal Characteristics Analysis of Complaints on Officially Assessed Land Price by Big Data Mining
+비교 어휘 패턴 및 기계 학습 기법을 이용한 한국어 비교 마이닝 : Korean Comparison Mining Using Comparative Lexical Patterns and Machine Learning Techniques
+소셜 학습 시스템에서 오피니언 마이닝을 이용한 학습자 모니터링 = Monitoring learners using opinion mining in social learning system
+인문전산학 활용을 위한 데이터마이닝기법 : 조선왕조실록을 중심으로 = Data Mining Technology for Application in Humanistic Computing : Focused on the Chosun dynastic record
+SS-Finder : 추상 구문구조 명세 기반의 애스팩트 마이닝 프로세스의 설계 및 구현
+소셜 미디어 오피니언 마이닝에 기반한 기업의 위기관리에 관한 연구 = A study on social media opinion mining based enterprise crisis management
+텍스트마이닝, 복잡계 네트워크, 인터넷 빅데이터를 활용한 미래예측 관련 중요 키워드 도출 모델 = (A) new method of key word extraction from foresight based on textmining, complexity network analysis, and Internet big data
+매스미디어에 반영된 다문화적 소수자집단에 대한 사회적 인식 : 텍스트 마이닝을 통한 뉴스기사 분석
+스마트 제조를 위한 빅데이터 기술수준 분석 : 텍스트 마이닝 기법을 활용한 국내 특허동향 조사에 대하여
+대사 작용 정보 자동 추출을 위한 텍스트 마이닝 시스템 설계 및 구현
+단백질 상호작용 추출을 위한 확장성을 가진 텍스트 마이닝 기법
+축구 비디오에서의 데이터 큐브 및 마이닝을 이용한 의미적 분석 시스템 = A Semantic Analysis System using Data Cube and Mining in Soccer Video
+위키피디아 기반 텍스트 표현모델을 활용한 시멘틱 검색 기법 = A Semantic Search Technique with Wikipedia-based Text Representation Model
+텍스트 정보와 시각 특징 정보를 이용한 효과적인 웹 이미지 캡션 추출 방법
+마이닝 기법을 이용한 연관용어 집합 생성에 관한 연구 = (A) study on generating a set of association terms using mining techniques
+HMD VR기기에 대한 사용자 평가에 관한 연구 : 온라인 사용자 리뷰의 텍스트 마이닝을 활용하여
+A Study on Car Reviews Using Text Mining and Association Techniques = 텍스트 마이닝과 연관 기법을 이용한 자동차 리뷰에 관한 연구
+Sentiment analysis in text mining using ensemble-HMM : Ensemble-HMM을 이용한 텍스트 마이닝에서의 감성 분석
+개인 맞춤형 상품 리뷰 정보 시각화 방법론 연구 = Information Visualization Methods for Personalized Product Reviews
+규칙 기반 연관 이웃 마이닝을 이용한 증거수집 : 스마트폰 포렌식 중심으로 = Evidence Collection Guidelines using Rule-based Associative Neighborhood Mining
+순서형로짓모형과 데이터마이닝 기반의 보행자 교통사고 영향요인 분석 연구
+연관규칙 데이터마이닝 기법을 이용한 전문 검색엔진의 설계 및 구현 = (The) Design and Implementation of Expert Search Engine Using association Rule of Data Mining
+효율적인 오피니언 마이닝을 위한 Word Embedding 기반 대체어 자동 추출 = Alternative Word Extraction based on Word Embedding for Efficient Opinion Mining
+오피니언 마이닝의 정확도 향상을 위한 주제지향 감성사전 구축 및 활용: 주가예측 적용 사례
+실시간 크롤링을 통한 웹 마이닝 최적화 분산처리시스템 설계 = Distributed Processing Systems Design For Web Mining Optimization Through Realtime Crawling
+산업현장 안전교육의 개선을 위한 증강현실 활용 및 텍스트마이닝 기반 마커 도입에 관한 연구
+텍스트마이닝 기반 특허 군집분석의 유효성 검증
+텍스트마이닝을 이용한 질병관련 유전자 순위 결정 방법 연구 = A method to decide the ranks of disease related genes using text-mining
+뉴스 오피니언 마이닝을 통한 주가 분석에 관한 연구 = A Study on the Prediction of Stock Market by News Opinion Mining
+주가지수 예측을 위한 뉴스 빅데이터 오피니언마이닝 모형
+환자경험관리(PEM)를 위한 VOC 텍스트마이닝 분석과 활용
+Text Mining기법을 이용한 생활권 도로에서의 교통사고 심각도 모형 개발 : 서울시 어린이 교통사고를 대상으로
+사용자 중심의 텍스트 연관 객체 추출 기법
+비정형 텍스트 분석을 활용한 이슈의 동적 변이과정 고찰
+오피니언 마이닝을 활용한 기업의 위기 전후 온라인 여론 변화에 대한 연구
+오피니언 마이닝 기반의 사용자 니즈 및 기술정보 구조화를 통한 기술기회 탐색 = Technology opportunity discovery through structuring user needs and technology information based on opinion mining
+문장 성분 조합을 통한 텍스트 극성 및 점수 추론 = Rating and Polarity Inference of Texts by Considering Combination of Sentence Constituents
+빅데이터 마이닝에 의한 환경민원의 감성분석 및 공간패턴분석 = Sentimental&Pattern Analysis of Environment Complaint by Big Data Mining
+sns 텍스트 데이터에 기반한 브랜드 포지셔닝 지각도 개발과 평가
+특허 정보 텍스트마이닝을 활용한 핵심기술 분야 도출에 관한 연구 : 미국과 중국의 모바일 결제 시장을 중심으로 = A Study of Generation and Selection of the Core Technologies using the Patent Data Text-mining : Focused on the Mobile Payment Market of the U.S. and China
+텍스트마이닝과 Bass 모형을 활용한 인공지능 분야 유망기술 연구
+텍스트마이닝을 이용한 진주시 전자민원 패턴분석
+Developing theory-based text mining framework to evaluate service quality : in the context of hotel customers' online reviews
+지역 연구에 있어 유형별 시공간 비정형 데이터 비교 분석 : 강원도 홍천지역을 대상으로
+키워드 분석을 위한 Text Mining 시스템 개발 : Text Mining 시스템을 이용한 키워드 분석 = Text Mining System developed for the analysis of keywords
+인터넷 감성 텍스트에 대한 극성 분류 시스템 = A Polarity Classification System on Internet Emotional Texts
+온라인 커뮤니케이션 텍스트 분석을 통한 사회 이슈 긍부정 분류에 관한 연구
+카셰어링의 오피니언 마이닝과 동적 토픽 모델링
+웹 뉴스 키워드 분석을 이용한 보안 위협 비교분석 연구
+계층적 다중 사전에 기반한 문장 의미 분석에 관한 연구
+단백질-단백질 상호작용 텍스트 정보 추출을 위한 트리 커널 기반 학습
+뉴스 콘텐츠의 오피니언 마이닝을 통한 매체별 주가상승 예측정확도 비교 연구
+협업 필터링과 사용자 리뷰 마이닝의 결합에 관한 연구
+감성 기반 리뷰 분석 및 랭킹 계산을 위한 향상된 데이터마이닝 기술
+Mining potential ideas for new product development in crowdsourcing applications = 크라우드소싱을 이용한 신제품 생산에서의 잠재적 아이디어 마이닝
+빅데이터 기반 스토리 마이닝을 활용한 소비자의 친환경제품 구매 연구 = An empirical study on consumer's choice of eco-friendly products using story mining based on big data
+텍스트마이닝에서 R-interesting 기법을 이용한 의미있는 규칙 추출 기법
+텍스트마이닝 기반 이러닝 만족도 증진 방안 연구
+텍스트마이닝을 이용한 펀드 투자설명서 및 신탁약관의 자동분류
+연설문 텍스트마이닝을 통한 미국 연방공개시장위원회 주요 인사들의 통화정책 성향 분석
+텍스트마이닝 기술을 적용한 대용량 온라인 문서데이타의 계층적 조직화 기법 = A Text-Mining Approach to Hierarchically Organizing Large On-line Text Databases
+텍스트마이닝 기술을 이용한 효율적인 검색 알고리즘 연구
+투자전략 보고서의 제목이 재무분석가의 예측에 미치는 영향 : 텍스트마이닝 중심으로
+빅데이터 관리를 위한 오피니언 감성사전 모델 설계 = Design of Opinion Sensitivity Dictionary Model for Big Data Management
+나이브 베이지안 알고리즘을 이용한 한글 텍스트 감정 분류
+공간 소셜 데이터베이스에서 공간 빈발 패턴 마이닝
+특허 선점을 위한 상황 인식 기반의 문제 마이닝 : Context-Aware Mining of Problems from Patents for Patent preemption
+Data mining techniques for community analysis in social networks = 사회연결망에서 커뮤니티 분석을 위한 데이터 마이닝 기술
+고객의 소리 분석을 위한 텍스트마이닝 모델 연구 : 유통회사를 중심으로 = A Study of Text Mining Model for Voice Of Customer : Focused on Retail Market
+인터넷상의 텍스트데이터에서 개선된 결합규칙을 이용한 데이터마이닝 시스템 = A Data mining system for internet text data using improved association rules
+환경복지 정책 모형 설정에 관한 탐색적 연구: 텍스트마이닝을 중심으로
+R을 이용한 빅데이터 분석에 관한 연구 = A Study on Big Data Analysis Using R
+온오프라인 소비 분석을 통한지역별 사용자 모델링 연구 = A Study on Regional User Modeling through Consumption Analysis in On-Offline
+문서 분류를 위한 자질 조합과 시간적 순차성 및 통합성 기반  심층 신경망 모델 연구 = A Study on Deep Neural Network Models based on Feature Combination, and Temporal Sequentiality and Integration for Document Classification
+기술에 대한 특허 데이터의 분석방법에 대한 비교 연구 : 리튬계 2차전지 산업 사례
+K-means 클러스터링 마이닝기법을 활용한 개인별 음원 추천 모형에 관한 연구
+특허데이터 분석과 웹 검색 트래픽 분석을 통한 기술 트렌드 연구 : 데이터 마이닝 기술을 중심으로
+ChimerDB 3.0 : 암 전사체 분석과 문헌 데이터 마이닝을 통한 fusion gene 데이터베이스 구축
+헬스 케어 분야 전문의약품의 사용자 인식 현황 실태 분석 : 온라인 텍스트 데이터를 활용하여
+소셜믹스형 공공임대주택에 대한 인식도 연구 : 텍스트마이닝을 활용한 온라인기사댓글 분석 = A Study of the Perception on Social Mixed Public rental housing : An analysis of online article comment using text mining
+실시간 인기검색어를 이용한 빅데이터와 주가지수의 상관관계
+글로벌 온라인 비즈니스를 위한 빅데이터 활용에 대한 연구 : 전자 무역을 중심으로 = A Study of Using Big Data for Global Online Business : Focusing on e-Trade
+인터넷 뉴스 콘텐츠 빅데이터를 활용한 주가 예측
+전문 용어 클러스터링 알고리즘 설계 및 구현 = Design and Implementation of Clustering Algorithm for Subject Terminology
+Multiple Context-based Relation Kernel Models for Text Mining = 텍스트마이닝을 위한 다중문맥기반 관계커널 모델
+특허 정보 및 텍스트마이닝 기반의 기술주도형 기술로드맵 작성 방법론 = A Systematic Approach of Technology-driven Roadmapping:Application of Textmining and Patent Information
+효과기반 기술기회 탐색 방법론 : 문장 구조를 고려한 특허의 텍스트마이닝 = An approach to investigate technology opportunities : The use of SAOx analysis
+Developing a Hybrid Opinion Mining Model on Multilingual Social Media Text
+GRiD: Gathering rich data from PubMed using one-class SVM
+북한 김정은 집권 전후의 분야별 정책변화 추이 분석 : 「로동신문」(2002~2016) 사설ㆍ정론을 중심으로
+시공간 정보 및 대표 키워드를 활용한 뉴스 큐레이션 서비스
+주가지수 방향성 예측을 위한 증권 맞춤형 감성사전 구축 방안
+기술구조네트워크를 활용한 비정형 특허데이터 분석 방법론 : Using technology structure network to analyze unstructured patent data
+언어네트워크를 이용한 국내·외 지역생물다양성전략 분석 = Semantic Network Analysis of Domestic and Foreign Local Biodiversity Strategies and Action Plans
+특허데이터 기반, 연관관계분석 및 사회네트워크분석을 통한 기술분석 - AI
+빅데이터 활용과 분석기법 고찰
+특허 기반 복합기술 포트폴리오 지도 개발 방법론 : 텍스트마이닝 및 다계층 SOM 기법을 통한 접근
+인터넷 정보수집을 통한 독립적 개체간의 관계성 도출 기법 = A Study of Independent Object-Relationship Derivation Technique through the  Information Retrieval
+사용자 위치 기반 데이터를 활용한 패턴분석 및 장소 분류에 관한 연구
+토픽 모델링을 이용한 보건학 분야 국내학술지 연구동향 분석 = Analysis of Research Trends in Korean Academic Journals on Health Sciences Using Topic Modeling
+인터넷 감정기호를 이용한 말뭉치사전 자동구축 및 감정분류
+비정형 데이터 문서 점수에 관한 연구 : 금융 8K 보고서에 대하여 = A Study on the Document Scores of Unstructured Data : About 8K Financial Report
+해외 코딩 교육 이러닝 분석
+Text mining 기반의 특허등록 예측을 위한 특허 문서 분석 방법 = Analysis method of patent document based text mining to forecast patent registration
+빅데이터 기반의 아파트 수요 트렌드 분석에 관한 연구 = Trend Analysis of Apartment Demand Based on Big Data
+감성분석을 통한 온라인 구전과 판매 성과에 대한 요인 연구 : 웹사이트 스팀을 중심으로
+소셜 미디어 상에서의 여론 변화 추이 분석을 위한 감성사전 구축 방안 연구: 원자력 관련 트윗을 중심으로 = A Study on the Lexicon Development for Public Opinion Trend Analysis on Social Media : A Case Study of Twitter Opinion on Nuclear Power
+기계학습 기반의 한국어 단문 감성분류 기법에 관한 연구
+지도적 잠재의미색인 (LSI)기법을 이용한 의견 문서 자동 분류에 관한 실험적 연구
+트윗에서 추출한 스트레스 감성과 토픽의 공간적 특성 연구
+설계변경 클레임 원인들 간의 관계 분석을 통한 클레임 발생규칙 규명 = Identification of Claims Generating Rules through Analysis of Relationship among Claim Causes of Change Order
+iDrug: Text mining driven international adverse drug-drug interactions = iDrug: 텍스트마이닝 기반 약물 상호작용 분석
+서울시 전통시장의 여가소비기능의 역할과 장소체험 특성
+항목간 유사도 분석을 통한 전문가 자동선정 시스템에 관한 연구
+토픽 모델링을 이용한 탐색적 사용자 경험 분석 : 아마존 에코 온라인 리뷰 분석 사례를 중심으로
+인터넷 커뮤니티가 브랜드 이미지와 브랜드 태도에 미치는 영향 : 도플갱어 브랜드 이미지를 중심으로
+빅데이터 분석을 통한 사용자 관점의 이슈 클러스터링
+13-Structure를 이용한 상품평에서 속성과 의견 단어 추출 방법 = Extraction of feature and opinion words from product reviews using the 13-Structure
+XML 구조적 특징을 이용한 온톨리지 기반의 지식 탐사 모델 = (An) ontology based knowledge discovery model using XML, hierarchical structure
+온라인 리뷰에서 평점의 분류 = Classification of ratings in online reviews
+실시간 이슈 탐지를 위한 일반-급상승 단어사전 생성 및 매칭 기법
+위키피디아를 이용한 문서집합의존 개념계층그래프 구축 방안 = Incremental Development of Corpus-Dependent Concept Hierarchy Graph using Wikipedia
+동일본대지진 전·후 소비자 안전 민감도 변화에 따른 일본 수산물 수입수요함수 추정 : 인터넷 키워드 네트워크 분석을 중심으로
+인터넷 공론장에서의 정부불신형성에 관한 연구
+기계학습 방법을 이용한 문서 간 유사성에 관한 연구 : 차원 축소와 군집 방법을 중심으로 = A Study on Similarity between Text Documents using Machine Learning : Dimension Reduction and Cluster Analysis
+Optimization of Text Feature Selection Using Genetic Algorithm for Sentiment Classification
+트위터에서의 자동 카테고리 생성 기법
+김영란법 관련 키워드들에 관한 네트워크-연관성 분석 연구 = A Study on Network-Association Analysis of Keywords of Kim Young-ran Act
+비정형적 데이터와 정형적 데이터에 대한 통합검색엔진에 관한 연구 = A Study on search engine for unifying unstructured data and structured data
+Development of information extraction system on genetic studies for applications in genomics = 질병 관련 유전학 연구에 대한 정보 검색 시스템 개발 및 유전체학 연구에서의 응용
+연관 규칙을 위한 상식 기반 유용성 척도 = Common sense knowledge based interestingness measure for association rule
+Identifying influential financial business method patents based on text mining and negative binomial regression
+신문 사설의 비판적 담화분석을 위한 언어적 기초 연구 : 보도문과의 비교를 통한 통계적 접근
+Katz Status Index를 이용한 통합 멀티미디어 웹 검색엔진의 랭킹시스템 구현 = Implementation of Ranking System in Integrated Multimedia Web Search Engine using Katz Status Index
+워드투벡터를 이용한 법률용어의 연관성 분석
+지속가능 기술경영을 위한 통계적 특허분석 = Statistical patent analysis for sustainable management of technology
+특허 분석을 통한 기술 지식의 관리와 신기술 개발 방법론 = Methodology for managing technological knowledge and developing new technology using patent analysis
+빅데이터를 활용한 대학구조개혁 평가의 키워드 및 토픽 분석
+뉴스 키워드 분석을 통한 다우지수의 방향성 예측 = Predicting the direction of Dow Jones index through news keyword analysis
+Forecasting market trends of technologies using Bigdata : An application of percentage analysis, Decision Tree analysis, data visualization analysis to forecasting
+짧은 글에서의 핵심 구절 추출을 통한 문서 의도 파악
+토픽모델링과 시계열 분석을 이용한 부동산 투자이민제에 관한 연구
+소비자의 비윤리적 문제행동의 공모 매커니즘 연구
+빅데이터 분석 기법을 활용한 도서관발전종합계획 동향 분석 = Analysis on Trends of Library Development Plan by Using Big Data Analysis
+의미 그래프 모델을 이용한 상품평 분석 시스템
+워드임베딩 기법을 활용한 연관법령 검색 기법 연구 = A Study on the Law2Vec Model for Searching Related Law
+빅데이터 감성정보 추출을 통한 도심부 활성화 요인 분석 연구 : - 서울의 도심부 전통시장을 중심으로 = A Study on Factors Affecting the Revitalization of Central Urban Area Extracted from the Big Data of Emotional Information of Customers
+질의문 자동생성방식의 질의응답시스템의 설계 및 구축 = Question Answering System with Automated Question Generation
+공공데이터를 활용한 스타트업 기업의 성공요인 분석 : 안드로이드 모바일 어플 기반 기업을 중심으로 = A study of key factor analysis of data utilizing public enterprises start-up company
+소셜 빅데이터를 이용한 재난 감정 분석
+온라인리뷰의 효과적 랭킹모델 도출 및 사례분석
+딥 러닝 기반 토픽 모델링을 이용한 스케일러블 다중 문서 요약
+특허 연결망 분석을 이용한 국내외 의약품특허 현황 및 관리 방향에 대한 연구
+Default 연산과 보간을 이용한 통계적 문맥의존 철자오류 교정 기법의 고도화 = Improving the Performance of Statistical Context-Sensitive Spelling Error Correction Techniques Using Default Operation Algorithm and interpolation
+호텔의 여가소비기능 확장에 관한 연구
+재난 발생에 따른 시민 정신 충격도 분석
+중국어 관광 블로그와 리뷰의 감성분석 및 시각화 = Sentiment analysis and visualization of Chinese tourism blogs and reviews
+음식관광 빅데이터를 이용한 관광목적지 브랜드 개성에 관한 연구: 방한 중국인 관광객을 중심으로 = Study on Destination Brand Personality Using Food Tourism Big Data: Focusing on Chinese Tourists in Korea
+머신러닝 기술을 통한 리스크 알람 발생 기술 = The Use of Machine learning for the risk alarm system
+유통환경 변화에 따른 가치 충돌과 소비자 내적갈등
+법원 판례분석을 통한 공동주택 하자판결 시스템 개선에 관한 연구 = Study on Improvement of Apartment Housing Defect Judgment System based in Judicial Precedent Cases
+Paragraph vector와 JST를 이용한 뉴스기사의 감정 분석
+전자의무기록 문서 분류트리의 최적노드 결정에 관한 연구
+안드로이드 시스템에서 스팸SMS 분류기 구현
+음원, MV 스트리밍 사이트 댓글의  차별적 영향에 관한 연구 : 히트곡 유무와 대형/소형 기획사에 따른 차이 = A study on the differential influence of source and MV streaming site comments
+모바일 단말기 사용자를 위한 개인화된 북마크 기법 = A Scheme for Personalized Bookmark Service for Mobile Device Users
+사용자 요구분석 기반 상품 추천 시스템 = A product recommendation system based on users requirement analysis
+빅데이터를 활용한 해외여행상품의 구성요소와 해외여행객의 지각된 가치 분석 : 베트남여행을 중심으로 = A Study on the Components of Travel Products and the Perceived Value of Travelers Using Bigdata: Focused on Vietnam Travel
+온라인 빅데이터 분석을 통한 시청률 예측에 대한 연구 : 드라마 <별에서 온 그대> 사례 중심으로
+소셜 미디어를 통한  상업가로의 인지와 공간 변화에 대한 연구 -경리단길을 대상으로
+사용자 리뷰를 이용한 상품 특징 추출 및 평점 분배 = Product Feature Extraction and Rating Distribution Using User Reviews
+Enriching your Bibliography with Newly Published Research Papers
+연구제안서 내용기반 분석 접근을 통한 국내 융합 분야 연구개발 동향 분석 = Identifying convergence R&D trends of Korea: application of content-based analysis approach to research proposals
+단일 카테고리 문서의 다중 카테고리 자동 확장 방법론
+(A) study of standards and innovation : a case of the internet of things (IoT) with focus on China
+한글 인터넷 뉴스 기사 자동 분류시스템에 관한 연구 = (A) Study on Automatic Classification System of Hangul Internet News Articles
+A Dependency Graph-based Keyphrase Extraction Using Anti-pattern
+Text mining기법에 기반한 PageRank 알고리즘 제안 및 시스템 구현 = Textmining-based PangRank Algorithm Proposal and System Implementation
+Higher-Order Pattern Learning by Evolutionary Hypernetwork Models = 진화 하이퍼네트워크 모델을 이용한 고차원 패턴 학습
+하이브리드 다중모델 학습법을 이용한 자동문서분류 = Text categorization using hybrid multiple model schemes
+복지담론으로서 평화복지 의미연결망 연구 : 정권별('98~'17년) 언론보도의 의미구조 분석을 중심으로 = A Study for Semantic Network Analysis of Peace-Welfare as the Social Welfare Discourse : A Structure of Semantic on Newspaper by Regime('98 ~ '17).
+네트워크 분석을 활용한 유통분야의 정보통신기술 동향 분석
+Big 5 성격 요인에 따른 행복의 정의해석 차이가 경험재 소비에 미치는 영향
+연관단어 벡터 기반 감성 단어 유사도를 이용한 단어의 쾌-불쾌 지수 추정 = Estimating a Pleasure-Displeasure Index of Word using Similarity between Sentiment Words based on Word Association Vectors
+Hierarchical Attention Network를 활용한 주제에 따른 온라인 고객 리뷰 분석 모델
+토픽 모델링을 활용한 가짜 뉴스에 관한 탐색적 연구 : 언론에서 기사화된 가짜 뉴스 사례를 중심으로
+Word2vec와 Label Propagation을 이용한 감성사전 구축 방법에 대한 연구
+빅데이터 분석을 통한 기업 마케팅 활동 효과에 대한 연구 = A study of effectiveness for company marketing activity using bigdata analysis
+대학수학 클리닉 프로그램에서 플립드 러닝의 적용 효과에 관한 연구 = A Study on Effects of Flipped Learning in a University Mathematics Clinic Program
+지능형 보안 데이터 분석 기반의 공격탐지 모델 = The Model of Attack Detection based on Intelligent Security Data Analysis
+R&D proposal screening 시스템 설계 : Text-Mining 접근
+빈발 명사를 이용한 한글 SNS문서 분류
+단어 임베딩을 통한 문서의 의미분석 개선 = Using Word Embedding to Improve Semantic Analysis of Documents
+싱크로나이즈드 스위밍 경기의 미학적 탐색 = Aesthetic Exploration on Synchronized Swimming Competition
+Patent clustering and network analyses to compare nuclear waste management technologies
+Text Mining과 Naive Bayes 정리를 활용한 영화흥행 예측모델에 관한 연구
+Demand forecasting, keyword selecting, and ad placing in digital marketing with text mining
+효과적인 특허 분류를 위한 알고리즘 비교 분석연구
+재난전조 감지를 위한 SNS 데이터의 위험도 분석 및 활용가능성 연구 : 침수 관련 트윗을 사례로
+키워드 네트워크 분석을 통한 IT분야 국가연구개발 동향 분석에 관한 연구 = A Study on Research Trends of National R&D in IT Sector Using Keyword Network Analysis
+Extracting information from meaningful tables in HTML documents = HTML문서 중 의미 있는 표에 대한 정보 추출
+온라인 감성분석을 이용한 호텔 서비스 품질 평가 = Hotel service quality evaluation using sentiment analysis of online reviews
+빅데이터 감성분석을 통한 프로농구 발전 방안 모색 = A Study on Development of Korean Basketball League through Big Data Sentiment Analysis
+의료 정보 검사코드 표준화를 위한 LOINC 자동 매핑 프레임웍 = An Automatic LOINC Mapping Framework for Standardization of Laboratory Codes in Medical Informatics
+Mining uncertainty words in the biomedical literature for scientific knowledge discovery
+CSnet : constructing symptom network based on disease-symptom relationships
+복합검색을 지원하는 API 코드 예 검색시스템
+다항분포를 가정한 단어 문서 행렬을 통한 문서 간 유사성에 관한 연구 = A Study on Similarity between Text Documents using Term Document Matrix under Multinomial Distribution Assumption
+지식지도 설계 및 개발 방법론 : 유형, 지식 배치 알고리듬 및 개인화 = (A)Framework to design and develop knowledge map : typology, knowledge mapping algorithm and personalization
+의미 희소성을 지닌 단문에 대한 토픽 모델 정확도 개선 연구
+항공 안전 분야 빅 데이터 분석 기법 활용 방안에 대한 연구
+시간 가중처리를 이용한 소셜미디어 키워드의 연관규칙에 관한 연구 = Study on Association Rules of Social Media Keywords using Time Weighting Process
+양벌규정에 의한 기업 처벌은 실효적인 기업불법 통제수단인가: 통계분석으로 본 양벌규정 적용 현황
+개념 관계망 분석을 통한 2009 개정 과학과 교육과정에 따른 교과서 생명 영역의 핵심 주제 및 연계성 분석
+딥 러닝기반 고객평점 예측모델 = Deep learning based customer rating prediction model
+추천시스템에서 실링공격탐지기법에 관한 SLR
+Data-driven curriculum analysis of higher education based on network and its visualization
+토픽 모델링을 활용한 시공간 트윗 데이터의 장소 특성 연구 = A Study for the Place Characteristics of Spatio-temporal Twitter Data using Topic Modelling
+데이터웨어하우스를 활용한 효율적인 감성 분석 모델 = An Effective Sentiment Analysis Model in Data Warehouse
+주가 예측을 지원하기 위한 SVM 기반 뉴스 분류 시스템
+폐암 환자 맞춤형 방사선치료계획을 위한 빅데이터 기반의 방사선폐렴 예측 모델 개발 = Development of big data-based radiation pneumonitis prediction model for customized radiotherapy plan in patients with lung cancer
+사용자의 경험 측정을 통한 디자인 요소 추출 방법에 대한 연구 = (A)Study on the Method to Extract Design Factor through the Measurement of User's Experience
+식품첨가물에 대한 소비자 인식 조사 - 소셜 웹 데이터 분석을 중심으로
+다차원 순위 모델 기반의 관광후기 분석
+뉴스 감성 분석과 시계열 예측 기반의 주가 등락 예측 = Stock Fluctuation Prediction based on News Sentiment Analysis and Time Series Prediction
+학습자 성찰 도구로써 대시보드 개발을 위한 사용성 검사 연구
+오프 더 셸프(Off-the-shelf) 인공지능 서비스를 활용한 질적 분석의 사용자 경험 연구 : 자동 키워드 추출의 사용성·수용성 평가를 중심으로
+빅데이터를 활용한 자동 문서 감사 시스템 = Automatic document audit system utilizing big data
+Bankruptcy prediction modeling using qualitative information based on big data analytics
+프로그램 간 효율적인 유사성 분석을 위한 특징정보 기반의 소프트웨어 분류 기법
+온라인 집단의 의견을 이용한 의사 결정 지원 시스템 = A Decision Support System using the Opinions of Online Groups
+Revisiting the technology acceptance model with text mining and sentimental analysis
+한국인의 기업시민성 개념의 특징과 경제 교육적 함의 : 토픽모델링을 활용한 언론매체 및 기업신년사 분석
+영화리뷰 감성분류성과향상에 대한 변수선택법 성능비교연구 = Comparison of Variable Selection Methods for Improving Sentiment Classification Performance of Movie Review
+온톨로지를 활용한 관계생성과 문맥광고 키워드의 확장 및 추천 = Generating Relationship by Using Ontology and Expanding and Recommending Contextual Advertising Keywords
+빅데이터 분석을 통한 교통제보 시각화의 만족도에 영향을 미치는 요인에 관한 연구 = A Study of the Factors Affecting Satisfaction of Traffic Information Visualization using Big Data Analysis
+모바일 폰에서 생성한 이미지를 이용한 인터넷 상품 검색 시스템의 설계 및 구현
+서울시 건강도시사업에서의 시민참여에 관한 연구
+OSMU 방식의 디지털교과서 모델 개발 = A Development of Digital Texbook Model Using OSMU Method
+Assessing the effect of policy using housing sub-market simulation model
+HPV 백신 접종 관련 연구의 사회연결망 분석
+기계학습 기반의 대장암 환자 의무기록 분석
+API 정보 기반의 MS 윈도우 실행파일 클러스터링
+사회연결망 분석을 활용한 대구의 관광지 이미지 분석 : 온라인 빅데이터를 중심으로 = Analyzing the Destination Image of Daegu from Onine Content through Social Network Anlaysis
+오픈소스 소프트웨어 프로젝트 규모 결정요인 분석에 관한 연구 = A Study on the Analysis of Open Source Software Project Scale Decision Factor
+빅 데이터 분석 기법을 이용한 기후변화 복원탄력성 지표 개발
+기업의 사회적 책임경영을 위한 디자인 주도형 기업의 전략 제안 연구
+(An) Analytic approach using topic modeling for developing marketing strategy in hotel industry
+국내 신문 기사에 나타난 영재교육 및 영재에 대한 담론분석 = A Discourse Analysis on Articles about Gifted education and the Gifted in major newspapers of Korea
+병원 데이터웨어하우스 구축을 위한 임상진료부문 요구도 분석에 따른 모델 개발 = The Development of Model for Constructing the Hospital Data Warehouse Through the Analysis of the Degree of Request on the Clinical Part
+문화주도적 젠트리피케이션 현상에 의한 장소성 변화 연구 -홍대, 이태원, 신사동 지역에 대한 소셜미디어 빅데이터 분석을 중심으로-
+한국어 특성 기반의 어절 수 변화에 따른 n-gram 성과 비교
+빅데이터 분석을 통한 중국 관광시장의  한국 관광 인식 분석 = A study on awareness of Korea tourism in Chinese tourism market through big data analysis
+2009 개정 교육과정에 따른 중학교 수학 교과서의 확률과 통계영역에 대한 언어적 분석
+페이스북 온라인 셀렉트샵 브랜드페이지의 메시지 특성이 사용자 반응에 미치는 영향
+IoT센서기술을적용한빅데이터기반작업환경 유해인자 모니터링 시스템개발 및 적용방안 연구
+빅데이터 기반 레스토랑 평가 애플리케이션의 특성과 이용동기가 소비자 이용의도에 미치는 영향 = The effect of the intention of consumer use on characters and usage motivation of restaurants evaluation application based on big data
+특허 기반 경쟁정보를 활용한 기술로드맵 작성 지원 : 서비스 산업 분야 중심
+토픽 모델링을 활용한 한국 ODA 관련 보도 분석 : 1993∼2016년 신문 기사를 중심으로
+半夏厚朴湯이 생쥐의 심리적 스트레스에 미치는 영향과 유전자 분석 : 반하후박탕 = Effects of Banhahoobak-tang(Banxiahoupo-tang) Extract(BHTe) on Psychological Stress
+빅 데이터 기반  질병 키워드 추천 시스템 = Disease Keyword Recommendation System Based on Big Data
+탄소산업의 지식재산권 현황 및 분석
+소셜 네트워크 환경에서 사용자의 평점을 고려한 신뢰성 있는 전문가 검색 기법
+실시간 리포트 표절 검사를 위한 임계 알고리즘 개발 연구
+효과적인 사이트 구현을 위한 로그 분석에 대한 연구 = Log analysis for the effective web sites implementataion
+온라인 구전을 통한 영화 VOD의 흥행 요인 연구 = A Study on the Movie Factors of  Movie VOD through Online Words of Mouth
+WBI를 위한 학습자 분석 시스템의 설계 및 구현
+K 관리도를 이용한  문서 분류에 관한 연구 = A study on the text classification using K chart
+NoSQL Database 환경에서 비정형 데이터 디지털 포렌식 기법 = A Technique for Unstructured Data Digital Forensics on NoSQL
+SNA기법을 활용한 특허맵 기반의 기술로드맵 수립 : 자동차용 터보차저 사례 = A study of establishing TRM based on patent map appliced by SNA (Social network analysis)
+개인정보보호와 빅데이터 산업의 균형발전을 위한 법정책적 개선방안 연구
+후쿠시마 원전 사고 전후,  한국 원자력 홍보 프레임의 변화
+빅데이터 분석 사업의 정보시스템 감리에 대한 연구 = A Study on the Information System Audit for Bigdata Analysis Business
+IoT 플랫폼 기반 스마트 살균 방재 시스템의 설계에 관한 연구 = A Study on Design of Smart Sterilization Disaster Prevention System Based on IoT Platform
+절개지 재난예방을 위한 의사결정 모형 = A Decision-Making Model for Disaster Prevention of Slope Failure
+토픽모델링을 이용한 탐색적 환자복약경험 분석 :WebMD.com의 레보티록신 리뷰 분석사례를 중심으로
+계층 군집화를 이용한 특허경영전략 : 이산화탄소 흡수제 기술을 중심으로 = Patent management strategy using hierarchical clustering
+분류분석에서 CFS-변수부분집합 선택에 관한 연구
+(A) study on the radiation toxicity prediction by using data mining and artificial intelligence
+사회연결망 분석을 활용한 R&D관점의 사회적 이슈 재구성 방법론
+키워드 네트워크 분석을 통한 공간정보의 연구동향 분석에 관한 연구
+빅 데이터를 활용한 공유숙박의 선택속성이 만족도·행동의도에 미치는 영향 : 문화적응도 조절효과를 중심으로 = The effect of selection Attribute of shared Accommodation using Big Data on Satisfaction and behavior intention : Focusing on the Cultural Adaptation Regulatory Effects
+기술군집화를 통한 기술분류 도출 : 공간정보산업 사례를 중심으로
+샤를리에브도'사태에 대한 언론보도의 의미망 분석 : 프랑스, 미국 및 한국 신문을 중심으로 : Focused on France, the United States, and South Korea newspapers = Semantic network analysis of media coverage regarding Charlie Hebdo attack
+암호화폐 분석을 위한 인공지능 기반의  통합모델 제안 = Proposal of Integrated Model based on Artificial Intelligence for Cryptographic Currency Analysis
+코퍼스 분석을 통한 공학?IT 용어목록 추출 및 어휘 교수법 개선방안에 대한 연구 : 능동적 지식 기반의 고등학교 영어교과서 개선을 중심으로 = A Study on the Improvement of Vocabulary Teaching Method Based on the Extraction of Engineering & IT Lexical Items through Corpus Analyses: With a Focus on the Active Knowledge-based Revision of High School English Textbooks
+연구성과의 질적 평가를 위한 계량정보학적 분석에 관한 연구
+대사 경로 재구축을 통한 게놈 수준의 인실리코 분석 기법 = Genome Scale in silico Analysis Techniques with Metabolic Pathway Reconstruction
+다변량 분석 기법을 이용한 기술예측 = Technology forecasting using multivariate analysis technique
+빅데이터 마케팅을 이용한 스포츠스타의 광고 적합성 연구
+초등돌봄교실 정책이슈의 출현과 변동과정 분석 : 빅데이터 분석 및 소셜 네트워크 분석을 중심으로
+생체데이터 분석을 위한 하둡 플랫폼의 확장
+토픽모델링을 이용한 핀테크 기술 동향 분석 = A study on the research trends in fintech using topic modeling
+인공지능에 관한 저작권법적 쟁점 연구
+녹색물류 관련 키워드 유형 분석을 통한 정책적 우선순위 도출
+특허 청구범위 키워드를 이용한 구간별 기술트랜드 분석 및 기술 예측 = Period technology trend analysis and technology forecast using patent claim keyword
+특허 정보 검색을 위한 대체어 후보 추출 방법 연구 = Extracting Alternative Word Candidates for Patent Information Search
+S&T Text Mining을 이용한 국방과학기술정보분석 방법 연구 : 국방핵심 기반기술을 중심으로 = A Study on the Method for Defense Science and Technology Information Analysis Using S&T Text Mining
+빅 데이터를 이용한 제품디자인의 감성반응 분석 : 스마트폰을 대상으로 = Sentimental analysis to product design using Big-Data : focused on smartphone
+관계 추출 영역에서 의미적 유사도를 적용한 Distant Supervision 학습 기법 = Distant supervision learning method using semantic similarity for relation extraction
+비정형 데이터의 의미 확장과 그래프 모델링을 이용한 개선된 소셜 빅데이터 분석 시스템
+국책사업의 정책집행과정별 언론의 변화 연구 : '4대강 사업'을 중심으로
+패션 VMD의 Interactive Merchandising (IMD)효과성 분석에 관한 연구 : 프로젝션 맵핑을 중심으로
+기업의 기술혁신 과정 및 역량분석 : 애플과 삼성전자 비교연구
+빅데이터와 데이터 매쉬업의 디자인에서의 활용 : 도서관 디자인 사례
+특허정보를 활용한 신기술 아이디어 도출 및 평가
+인용 정보를 고려한 미발견 공공 지식 추출 : Swanson의 ABC model 재현 및 확장
+One-pass Preprocessing for Token-based Source Code Clone Detection : 토큰 기반 소스 코드 복제 검출을 위한 One-pass 전처리
+BL-LDA : bringing bigram to supervised topic model
+토픽모델링 기반의 국방기술 동향분석 : 장갑전투차량을 중심으로 = Analyzing the Trend of Defense Technology using Topic Modeling : A case of Armoured Fighting Vehicle
+음식점 평가 후기에 나타난  논증 및 양보 표현 분석 : 자동분류 자료 구축의 일환으로
+한국어 게시판에서의 다중 아이디 사용자 식별 = Authorship Identification on Korean Web Board
+빅데이터를 통한 주가예측의 메타 분석적 연구
+특허인용정보를 활용한 R&D 분야의 자율주행 기술개발 예측에 관한 연구 : 전장분야에서의 차량용 이더넷 네트워크 기술 중심으로 = A study on the prediction of autonomous driving technology development in R&D field from patent citation information : focus on automotive ethernet network technology in electricity field
+내용분석을 통한 전원생활 및 전원주택의 패러다임 변화에 관한 연구 = A Study on Paradigm Shift of Garden Life and Secondary Home by Using Content Analysis : 1990 to 2012
+Analyzing research trends in personal information privacy using topic modeling
+어린이집에서의 사회적 지지가 보육교사의 문제행동 지도전략에 미치는 영향
+국내 소비 트렌드 변화에 따른 색조화장품 시장 트렌드 변화 연구 : 제품 컬러 및 광고 중심으로
+모바일금융 환경에서의 소비자적응
+영화 리뷰에 대한 감정 어휘에 관한 분석:  영화 <Now You See Me 2>를 중심으로 = Analysis of Emotional Vocabulary for the Film Review :  Based on the Movie of “Now You See Me 2”
+웹 콘텐츠 기반의 비즈니스 통합 소프트웨어에 대한 탐색적 연구 = An Exploratory Study on Comparison of Business Integration Software Based on Web Contents
+빅 데이터와 TRIZ기법을 이용한 기술간의 창의적 융합 방법론 = An approach for creative convergence
+빅데이터를 활용한 공유숙박의 지각된 위험 인식에 관한 연구
+신경망 기반의 특징 추출 모듈을 이용한 문서 분류 = An Automated Text Classification Method Using Multi Feature Extraction Module based on Neural Network
+SOM과 Hu 불변 이미지 모멘트 기반 이미지 클러스터링 성능 평가 방법
+딥러닝 알고리즘을 이용한 저널추천 방법론
+Development and utilization of GTM-based maps using information visualization
+국내 중소기업의 성장통에 영향을 미치는 요인에 관한 연구
+가짜뉴스에 대한 포털과 SNS간 반응 차이 감성분석
+동시출현단어 분석을 통한 한국 중국 영어권 마이크로 블로그 관련 연구동향 비교 연구
+비즈니스 분석에 정형데이터와 비정형데이터가 미치는 영향에 대한 비교 연구
+한국 디자인 논문의 연구 경향 : 디자인 관련 학술단체 연구논문 주제어를 중심으로 = the research paper tendency analysis of design related academic society in Korea
+기술 분야별 특허 분석을 이용한 트리즈의 유용성 분석
+(A) data-driven analysis of antisocial comments in online news communities
+특허 등록의 예측 방법에 관한 연구 = A study on prediction method of patent registration
+빅데이터 분석기법을 이용한 이슈기술분석 = Issue technologies analysis through big data analysis methods
+기업 기술역량 기반 기술기회탐색과 연구개발 기획의 연계
+트위터 상의 사용자 정서와 만족도 인식을 통한 마케팅 성과 분석 = Analyzing performance of marketing through awareness of user's emotions and satisfactions on Twitter
+협업지향 과학기술정책 정보서비스의 혁신에 관한 연구 = A Design and Implementation of Innovative Information System Services for Collaboration Oriented Science and Technology Policy
+대규모 센서 네트워크를 위한 메시지 지향 분산컴퓨팅 및 관리시스템 = (A) Message-Oriented Distributing Computing & Administration System for Large Scale Sensor Networks
+연관성 규칙 기법을 이용한 빅데이터 분석 = Application of Association Rules for Mining Bigdata
+고객의 평가를 이용한 어플리케이션 스토어의 컨텐츠 추천시스템 제안 = Applications recommender systems proposed by customer comment analysis
+Construction of Vietnamese SentiWordNet using Vietnamese Dictionary and String Kernel Function : 베트남어 사전과 문자열 커널을 사용한 베트남어 SentiWordNet 구축
+빅데이터를 이용한 한국?중국?일본의 레스토랑 브랜드 개성에 관한 연구 = A Study of Korea, China and Japan Restaurant Brand Personality by Using Big-Data
+토픽분석 기반의 감성분석을 이용한 재난정보 소셜 미디어 분석 연구 = A Study on social media of disaster information by using the topic analysis based sentiment analysis
+개인정보 유출 사고 시 온라인 미디어 노출이 기업 이미지와 시장가치에 미치는 영향 = A Study on the Effect of Buzz on Corporate Image and Market Value in Personal Information leakage Incidents
+소셜 빅데이터 기반 VOC, TV시청률, 스포츠 경기력의 상호 연관성에 관한 연구 = Inter-relationship among the Voice of Customers, Television Ratings, and Sports Performance based on Social Big data
+국내 스포츠 인포그래픽 서비스에서 인포테인먼트 커뮤니케이션 전략의 효과성 연구 : 포털사이트 야구 인포그래픽 서비스를 중심으로
+JUEE : Spam E-mail categorization system using text mining techniques : in respect of Hempel's paradox = 문서 지식발견 기법을 이용한 스팸 메일분류 시스템 : Hempel's paradox 논리를 중심으로
+HaDextract : Extracting HLA-Disease Interaction Information from Biomedical Literature
+Activity On Vertex 네트워크를 이용한 계층구조의 문서자동분류 기법 = (An) Automatic Document Classification Technique of Hierarchical Structure Using Activity on Vertex Network
+빅데이터 분석을 통한 전자계 인식도 조사 및 분석
+기술수명주기 관점에서 기술혁신성과에 관한 연구 : 미국/유럽/중국 태양광산업 특허 데이터를 중심으로 = Technological Innovation Performance from the Perspective of Technology Life Cycle : Focusing on Patent Data of USA/EU/China Solar Industry
+키워드 분석과 토픽모델링을 이용한 스마트팩토리 학술연구 동향 분석
+빅데이터와 인공지능을 이용한 포트폴리오 관리 = Portfolio Management Using Big Data and Artificial Intelligence
+빅데이터 기반의 건설기술 개발 트렌드 분석에 관한 연구 : 4차 산업혁명 ICT 기술 관련 건설특허를 중심으로 = Analysis of the Trends of Construction Technology Development based on Big Data : Focused on Construction Patents in Relation to the 4th Industrial Revolution ICT Technologies
+저자프로파일링분석과 저자동시인용분석의 유용성 비교 검증 : 건축학 분야를 대상으로 = A Comparison Test on the Potential Utility of Author Profiling Analysis (APA) and Author Co-Citation Analysis (ACA): Based on Architectural Science
+특허 정보 분석을 통한 관광 기술 동향 분석 : 토픽 모델링을 중심으로 = Analysis of tourism technology trends using patent information : based on topic modeling
+한국과 중국의 체육학 관련 연구주제에 대한 종단적 고찰/ : text-mining 기법을 적용하여
+국내관광 의사결정과 소셜미디어의 관계성 규명 : 내용분석을 중심으로
+소셜미디어 빅데이터로 분석한 항공사 이미지 변화 : -K항공 램프리턴 사건 전후를 중심으로- = Image Difference of Airline Before and After the Scandal :-Focusing on the Ramp Return (nuts scandal) of K airline-
+빅데이터를 활용한 소비자 위험예측모델에 관한 연구
+SNS빅데이터를 활용한 디지털사이니지 영상콘텐츠 디자인 연구 : 디지털사이니지 매거진TV를 중심으로 = (A) study on digital signage visual communication design utilizing SNS big data : focus on digital signage magazine TV
+토픽모델링을 활용한 농민신문기사 분석 : 농협개혁에 관한 토픽을 대상으로 = Analysis of the Farmers Newspaper Article : Target on the Topics Reform of Nonghyup
+플랜트 장비의 고장유형 진단 방안에 관한 연구
+SVM(Support Vector Machine) 앙상블 학습을 이용한 문서분류 개선에 관한 연구 = A Study on Mining Model for Enhancing Text Classification Using Ensemble Learning
+Evaluation of the protective effect of Shuanghe-tang based on Dongeuibogam analysis using ischemic stroke mice model
+2009 개정 교육과정에 따른 중학교 수학교과서에 제시된 사회교과제재의 통합 방식 분석 = A practival analysis on the integrated model of social studies themes in middle mathematics textbook based on 2009 revised curriculum
+An Integrated Toxicogenomic Study Using Big Data Analysis for Understanding the Neurotoxic Mechanisms of Heavy Metal Lead = 유해중금속 납의 신경독성기전 이해를 위한 빅데이터 기반의 통합적 독성유전체분석 연구
+비트코인 가격 등락 예측을 위한 딥러닝 모델 연구
+Identifying innovation determinants and enhancing innovation capabilities of SMEs : empirical analysis in Korean firms
+기능적 요구사항과 비기능적 요구사항 간의 추적성 구축에 있어서 잠재 의미 색인 기법과 잠재 디리클레 할당 기법의 비교 연구 = A Comparative Study between Latent Semantic Indexing and Latent Dirichlet Allocation in Constructing Traceability between Functional Requirements and Non-Functional Requirements
+사회네트워크 및 회귀분석을 이용한 핵심 기술 추출 모형 개발 = A model development for extracting core technology using social network and regression analysis
