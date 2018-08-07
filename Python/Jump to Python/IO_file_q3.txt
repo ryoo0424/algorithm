@@ -1,4 +1,0 @@
-AAABBB
-CCC
-DDD
-EEE
