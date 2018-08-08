@@ -29,14 +29,8 @@ while True:
 
     for article in articles:
         title = article.get_text()
-        print(title)
-        #link = article.a.get("href")
-        #url = "http://www.riss.kr/" + link
-        #print(url)
         lists.append(title)
     i += 1
-
-print(lists)
 
 with open("papersearch.txt", "w", encoding="utf8") as f:
     for head in lists:

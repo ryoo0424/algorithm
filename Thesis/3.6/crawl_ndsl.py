@@ -29,9 +29,6 @@ while True:
 
     for article in articles:
         title = article.get_text()
-        #link = article.a.get("href")
-        #url = "http://www.riss.kr/" + link
-        #print(url)
         lists.append(title.strip())
     i += 1
 

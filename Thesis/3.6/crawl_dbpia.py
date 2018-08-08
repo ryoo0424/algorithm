@@ -21,17 +21,11 @@ while articles:
 
     for article in articles:
         title = article.get_text()
-        print(title)
-        #link = article.a.get("href")
-        #url = "http://www.riss.kr/" + link
-        #print(url)
         lists_tmp.append(title)
     i += 1
 
 for tmp in lists_tmp:
     lists.append(tmp.split("\xa0")[0])
-
-print(lists)
 
 with open("dbpia.txt", 'w', encoding="utf8") as f:
     for head in lists:
