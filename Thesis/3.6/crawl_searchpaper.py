@@ -2,7 +2,7 @@ from bs4 import BeautifulSoup
 import urllib.request
 
 
-# 크롤링 차단 우회
+#자동 크롤링 차단을 우회하기
 class NewOpener(urllib.request.FancyURLopener):
     version = "Mozilla/5.0"
 
@@ -13,29 +13,31 @@ lists = [] #크롤링 한 논문 제목들을 저장할 리스트
 opener = NewOpener()
 
 while True:
-    url = "http://www.ndsl.kr/ndsl/search/list/article/articleSearchResultList.do?page="\
+    url = "http://papersearch.net/search/sch-result.asp?page="\
           + str(i) +\
-          "&query=%ED%85%8D%EC%8A%A4%ED%8A%B8%EB%A7%88%EC%9D%B4%EB%8B%9D&prefixQuery=&collectionQuery=&showQuery=%ED%85%8D%EC%8A%A4%ED%8A%B8%EB%A7%88%EC%9D%B4%EB%8B%9D&resultCount=100&sortName=RANK&sortOrder=DESC&colType=scholar&colTypeByUser=&filterValue="
+          "&sel_searchfield=ALL&query=%ED%85%8D%EC%8A%A4%ED%8A%B8%EB%A7%88%EC%9D%B4%EB%8B%9D"
     html = opener.open(url)
     source = html.read()
     html.close()
 
     soup = BeautifulSoup(source, "html5lib")
-    table = soup.find(class_="mid_section")
-    articles = table.find_all(title="상세화면")
+    table = soup.find(class_="sch-result-lists")
+    articles = table.find_all("h3")
 
     if not articles:
         break
 
     for article in articles:
         title = article.get_text()
+        print(title)
         #link = article.a.get("href")
         #url = "http://www.riss.kr/" + link
         #print(url)
-        lists.append(title.strip())
+        lists.append(title)
     i += 1
 
-with open("ndsl.txt", "w", encoding="utf8") as f:
+print(lists)
+
+with open("papersearch.txt", "w", encoding="utf8") as f:
     for head in lists:
         f.write(head + "\n")
-
